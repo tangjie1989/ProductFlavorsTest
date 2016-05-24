@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProductFlavorsTest</string>
+    <string name="third_view_title">this is third activity</string>
+</resources>
